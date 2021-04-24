@@ -1,0 +1,41 @@
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.exe
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.deps.json
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.runtimeconfig.json
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.runtimeconfig.dev.json
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.dll
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.pdb
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.csprojAssemblyReference.cache
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.AssemblyInfoInputs.cache
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.AssemblyInfo.cs
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.csproj.CoreCompileInputs.cache
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.dll
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.pdb
+D:\University\8_semestr\GA\Task1\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.genruntimeconfig.cache
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.csprojAssemblyReference.cache
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.AssemblyInfoInputs.cache
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.AssemblyInfo.cs
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.csproj.CoreCompileInputs.cache
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.dll
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.pdb
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.exe
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.deps.json
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.runtimeconfig.json
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.runtimeconfig.dev.json
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.dll
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\bin\Debug\netcoreapp3.1\GA_System.pdb
+D:\University\8_semestr\GA\Task2\Genetic algorithms for not linear system\GA_System\obj\Debug\netcoreapp3.1\GA_System.genruntimeconfig.cache
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\bin\Debug\netcoreapp3.1\GA_System.exe
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\bin\Debug\netcoreapp3.1\GA_System.deps.json
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\bin\Debug\netcoreapp3.1\GA_System.runtimeconfig.json
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\bin\Debug\netcoreapp3.1\GA_System.runtimeconfig.dev.json
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\bin\Debug\netcoreapp3.1\GA_System.dll
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\bin\Debug\netcoreapp3.1\GA_System.pdb
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.csprojAssemblyReference.cache
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.AssemblyInfoInputs.cache
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.AssemblyInfo.cs
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.csproj.CoreCompileInputs.cache
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.dll
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.pdb
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.genruntimeconfig.cache
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\bin\Debug\netcoreapp3.1\Jace.dll
+D:\University\8_semestr\GA\Task3\Genetic algorithms\GA_System\obj\Debug\netcoreapp3.1\GA_System.csproj.CopyComplete
